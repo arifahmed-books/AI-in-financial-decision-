@@ -1,0 +1,9 @@
+Cost Pools,Total Overheads,Cost Drivers,Mineral,Low-sodium,Vitamin
+Machine Setup and Maintenance,60000,Number of Production Runs,700,400,250
+Secondary Packaging ,34000,Units packaged ,150000,30000,20000
+Marketing and Advertising,200000,Number of marketing campaigns run,20,60,90
+IT Systems,85000,System usage hours,650,500,350
+Distribution and Delivery,60000,Number of deliveries ,450,300,200
+Labor Recreation ,121000,Indirect labour hours per unit ,52500,36000,35000
+Production volume,,,150000,30000,20000
+Profit before overheads,,,750000,210000,240000
