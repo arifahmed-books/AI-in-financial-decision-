@@ -1,0 +1,11 @@
+Case ID,Message,Source,Timestamp,Risk Level,Action,Status,Rationale,Entities
+1,Transaction was processed without notifying the compliance officer.,Email,2025-05-11 15:29:49,High,Immediate Review,Escalated,Rule-based flag; ML flagged with 0.92 confidence,None
+2,Audit report was completed and emailed to the external auditor.,Chat,2025-05-11 21:29:49,None,Archive,Closed,,Audit (PROPER_NOUN)
+3,The request was executed while the internal review was still pending.,Log,2025-05-12 03:29:49,High,Immediate Review,Pending,Rule-based flag; ML flagged with 0.87 confidence,None
+4,Policy update was approved by Director John Smith on March 5th.,Memo,2025-05-12 09:29:49,None,Archive,Closed,,"Director (PROPER_NOUN), John (PROPER_NOUN), Smith (PROPER_NOUN), March (PROPER_NOUN)"
+5,Customer complaint was not logged due to verbal communication.,Email,2025-05-12 15:29:49,High,Immediate Review,Escalated,Rule-based flag; ML flagged with 0.90 confidence,Customer (PROPER_NOUN)
+6,All cash deposits above threshold were reported as required.,Log,2025-05-12 21:29:49,None,Archive,Reviewed,,None
+7,Account access was granted to an unauthorized third party.,Chat,2025-05-13 03:29:49,High,Immediate Review,Escalated,Rule-based flag; ML flagged with 0.95 confidence,Account (PROPER_NOUN)
+8,Client data backup was delayed without proper documentation.,Email,2025-05-13 09:29:49,High,Immediate Review,Pending,Rule-based flag; ML flagged with 0.89 confidence,Client (PROPER_NOUN)
+9,Risk control policy was acknowledged and filed.,Log,2025-05-13 15:29:49,None,Archive,Closed,,Risk (PROPER_NOUN)
+10,Funds were transferred after hours with no approval.,Chat,2025-05-13 21:29:49,High,Immediate Review,Pending,Rule-based flag; ML flagged with 0.93 confidence,None

@@ -1,0 +1,12 @@
+Decision Tree Rules (Text Statement Form):
+
+If IRR <= 5.58, then predict class 0.
+If IRR > 5.58 and DF <= 7.57 and IRR <= 6.96 and DF <= 5.74, then predict class 1.
+If IRR > 5.58 and DF <= 7.57 and IRR <= 6.96 and DF > 5.74, then predict class 0.
+If IRR > 5.58 and DF <= 7.57 and IRR > 6.96 and Life <= 4.00 and DF <= 7.35, then predict class 1.
+If IRR > 5.58 and DF <= 7.57 and IRR > 6.96 and Life <= 4.00 and DF > 7.35, then predict class 0.
+If IRR > 5.58 and DF <= 7.57 and IRR > 6.96 and Life > 4.00 and IRR <= 7.67 and IRR <= 7.63, then predict class 1.
+If IRR > 5.58 and DF <= 7.57 and IRR > 6.96 and Life > 4.00 and IRR <= 7.67 and IRR > 7.63, then predict class 2.
+If IRR > 5.58 and DF <= 7.57 and IRR > 6.96 and Life > 4.00 and IRR > 7.67, then predict class 1.
+If IRR > 5.58 and DF > 7.57 and IRR <= 9.13, then predict class 0.
+If IRR > 5.58 and DF > 7.57 and IRR > 9.13, then predict class 1.

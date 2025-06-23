@@ -1,0 +1,6 @@
+,Age,Gender,Annual Income,Spending Score,Purchase Frequency
+Age,1.0,0.04,0.18,-0.89,-0.06
+Gender,0.04,1.0,-0.02,-0.03,-0.06
+Annual Income,0.18,-0.02,1.0,0.0,0.03
+Spending Score,-0.89,-0.03,0.0,1.0,0.05
+Purchase Frequency,-0.06,-0.06,0.03,0.05,1.0

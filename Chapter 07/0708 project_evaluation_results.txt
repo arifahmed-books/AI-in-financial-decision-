@@ -1,0 +1,27 @@
+Financial Evaluation Results
+========================================
+
+Discount Rate: 10.00%
+Hurdle Rate (IRR Benchmark): 15.00%
+
+New Project:
+  NPV: $4,803,261.08
+  IRR: 25.75%
+  Discounted Payback Period: 3.45 years
+
+Upgrade Project:
+  NPV: $5,005,755.94
+  IRR: 23.76%
+  Discounted Payback Period: 3.60 years
+
+Incremental Project:
+  NPV: $202,494.86
+  IRR: 13.45%
+  Discounted Payback Period: 4.59 years
+
+Incremental IRR (13.45%) BELOW hurdle rate (15.00%).
+Max initial investment to meet hurdle: $1,918,376.32
+Current initial investment: $2,000,000.00
+Reduction needed: $81,623.68
+
+Min probability for positive NPV: 0.9081 (90.81%)

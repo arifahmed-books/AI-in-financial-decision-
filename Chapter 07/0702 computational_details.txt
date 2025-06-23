@@ -1,0 +1,71 @@
+Computational Details Report
+========================================
+
+Input Parameters:
+  - WACC: 12.00%
+  - Equity: $50.0 million
+  - Debt: $50.0 million
+  - Tax Rate: 20.00%
+  - Debt Interest Rate: 8.00%
+  - Initial Investment: $100.0 million
+  - Project Duration: 5 years
+  - Input Levered Operating CF: $30 million per year
+  - Annual Tax Shield: $0.80 million per year
+  => Derived Unlevered Operating CF = Input Levered CF - Tax Shield = 30 - 0.80 = 33.20 million per year
+
+A. Unlevered Analysis (Derived):
+------------------------------
+1. Unlevered Discount Rate Calculation:
+   Formula: r_unlevered = (WACC * (E + D)) / (E + D * (1 - tax_rate))
+   Calculation: r_unlevered = (0.12 * (50.0 + 50.0)) / (50.0 + 50.0*(1 - 0.2))
+2. Unlevered NPV Calculation:
+   Formula: NPV = Σ[Derived Unlevered CF / (1 + r_unlevered)^t] - Initial Investment, t = 1 to 5
+     Year 1: CF = 33.2 / (1 + 0.1600)^1 = 28.62
+     Year 2: CF = 33.2 / (1 + 0.1600)^2 = 24.67
+     Year 3: CF = 33.2 / (1 + 0.1600)^3 = 21.27
+     Year 4: CF = 33.2 / (1 + 0.1600)^4 = 18.34
+     Year 5: CF = 33.2 / (1 + 0.1600)^5 = 15.81
+   Sum of Discounted CFs = 108.71
+   Unlevered NPV = 108.71 - 100.0 = 8.71
+
+3. Unlevered IRR Calculation:
+   Cash Flow Series: [-100.0, 33.2, 33.2, 33.2, 33.2, 33.2]
+   Computed Unlevered IRR = 19.68%
+
+4. Unlevered Payback Periods:
+   Undiscounted Payback Period = 3.01 years
+   Discounted Payback Period (using r_unlevered) = 4.45 years
+
+B. Levered Analysis:
+--------------------
+1. Levered Cash Flow:
+   (Input) Levered CF is used directly: 30 Million Dollars
+
+2. Levered NPV Calculation (Discounting at WACC):
+   Formula: NPV = Σ[Input Levered CF / (1 + WACC)^t] - Initial Investment, t = 1 to 5
+     Year 1: CF = 30 / (1 + 0.12)^1 = 26.79
+     Year 2: CF = 30 / (1 + 0.12)^2 = 23.92
+     Year 3: CF = 30 / (1 + 0.12)^3 = 21.35
+     Year 4: CF = 30 / (1 + 0.12)^4 = 19.07
+     Year 5: CF = 30 / (1 + 0.12)^5 = 17.02
+   Sum of Discounted CFs = 108.14
+   Levered NPV = 108.14 - 100.0 = 8.14
+
+3. Levered IRR Calculation:
+   Cash Flow Series: [-100.0, 30, 30, 30, 30, 30]
+   Computed Levered IRR = 15.24%
+
+4. Levered Payback Periods:
+   Undiscounted Payback Period = 3.33 years
+   Discounted Payback Period (using WACC) = 4.52 years
+
+C. Yearly Cash Flow Details (also saved in 'cash_flow_details.csv'):
+Year	Derived Unlevered CF	Disc Factor (Unlev)	Discounted Unlev CF	Cumulative Disc Unlev CF	Input Levered CF	Disc Factor (Lever)	Discounted Lever CF	Cumulative Disc Lever CF
+0	-100.0	1.0	-100.0	-100.0	-100.0	1.0	-100.0	-100.0
+1	33.2	0.8621	28.62	-71.38	30	0.8929	26.79	-73.21
+2	33.2	0.7432	24.67	-46.71	30	0.7972	23.92	-49.3
+3	33.2	0.6407	21.27	-25.44	30	0.7118	21.35	-27.95
+4	33.2	0.5523	18.34	-7.1	30	0.6355	19.07	-8.88
+5	33.2	0.4761	15.81	8.71	30	0.5674	17.02	8.14
+
+End of Computational Details Report.
