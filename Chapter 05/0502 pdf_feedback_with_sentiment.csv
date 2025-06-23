@@ -1,0 +1,289 @@
+text_column,vader_sentiment,textblob_sentiment
+"Public Information – Released April 15, 2021 ",0.0,0.0
+1 Prime MMFs  at the Onset of the Pandemic : ,0.0,0.0
+"Asset Flows, Liqui dity Buffers, and NAVs ",0.3612,0.0
+"Viktoria Baklanova, Isaac Kuznits, Trevor Tatum1 ",0.0,0.0
+U,0.0,0.0
+"sing weekly data filed by prime money market funds (MMFs) on a monthly Form N -MFP , this article  offers a ",0.0,0.1
+"granular view of the funds’  cash flows, liquidity  buffers , and net asset values (NAVs)  per share  during the ",0.7506,0.0
+heightened market volatility at the onset of the pandemic in  March 2020.  ,0.0,0.0
+Prime MMFs  landscape  ,0.0,0.0
+"Prime MMFs can invest in a broad range of short -term, high quality fixed -income instruments  such as  U.S. ",0.0,0.080625
+"Treasury bills, federal agency notes, certificates of deposit, corporate commercial paper, repurchase agreements, ",0.4404,0.0
+"and obligations of states, cities, or other types of municipal agencies . At the onset of the pandemic, i n mid -March  ",0.0,0.0
+"2020, amidst heightened  volatility throughout financial markets, investors redeemed $134 billion from prime and ",0.3182,0.0
+"tax-exempt MMFs, while governm ent MMFs received inflows of $838 billion (Figure 1) .2 Although the MMF ",0.0,0.0
+"industry as a whole gr ew during this period, the large outflows from prime MMFs highlighted the remaining ",0.0,0.20714285714285713
+structural vulnerabilities in these funds.3    ,-0.1531,0.0
+Prime MMFs can be divided into two categories: retail and ,0.0,0.0
+institutional. SEC regulation requires retail MMFs to limit their ,0.0,-0.1
+investors to natural persons .4 Prime institutional MMFs are ,0.3612,0.1
+available to all investors and are typically used by  corporate ,0.0,0.07777777777777779
+treasurer s or by  managers of large portfolios of  assets. In ,0.296,0.21428571428571427
+"February 2020, before the events in mid- March,  there were  82 ",0.0,0.0
+"prime  MMFs (excluding feeder funds), comprising 50 prime ",0.0,0.0
+"institutional MMFs and 32 prime retail MMFs, managed by 35 ",0.0,0.0
+fund families .5 A number of fund families revised their MMF ,0.0772,0.0
+"offerings  in 2020, resulting in a 13% decrease in the number of ",0.0772,0.0
+"prime MMFs available. By February 2021, there were 71 prime ",0.0,0.4
+"MMFs, including 44 institutional funds and 2 7 retail funds.  ",0.0,0.0
+1 This is an article by the staff of the Division of Investment Management’s Analytics Office of the U.S. Securities and ,0.296,0.0
+"Exchange Commission (SEC). The SEC, as a matter of policy, disclaims responsibility for any private publication or statement ",0.0258,-0.06666666666666667
+of any of i ts employees. The views expressed herein are those of the authors and do not necessarily reflect the views of the ,0.0,0.0
+SEC or other members of the SEC staff.  ,0.0,-0.1
+"If you have any questions or comments about this report, please contact Viktoria Baklanova (baklanovav@sec.gov), Isaac ",0.3182,0.0
+"Kuznits (kuznitsi@sec.gov), or Trevor Tatum (tatumt@sec.gov) in the Division of Investment Management’s Analytics Office.  ",0.0,0.0
+"2 Tax-exempt or municipal MMFs  mainly invest in short -term, high -quality municipal obligations or obligations of states ",0.0,0.10888888888888888
+and local governments that may provide income exempt from federal and state income taxes . Government MMFs must invest ,0.1027,0.0
+"99.5% or more of their total assets  in short -term Treasury securities, securities issued by governmental agencies, repurchase ",0.7096,0.0
+"agreement s backed by these securities, or cash.  ",0.6705,0.0
+"3 See Report of the President’s Working Group on Financial Markets, “ Overview of Recent Events and Potential Reform ",0.0,0.0
+Options for Money Market Funds ” (December 2020).  ,0.0,0.0
+4 See rule 2a -7(a)(21).  ,0.0,0.0
+"5 Funds (or series) are counted at the portfolio level. Feeder funds , which are invested in the master portfolio s, are excluded ",-0.34,0.0
+to avoid double -counting of assets under management  that are consolidated at the master portfolio level.  0123456,-0.128,0.0
+Nov,0.0,0.0
+2010Jan,0.0,0.0
+2012Mar,0.0,0.0
+2013May,0.0,0.0
+2014Jul,0.0,0.0
+2015Sep,0.0,0.0
+2016Nov,0.0,0.0
+2017Jan,0.0,0.0
+2019Mar,0.0,0.0
+2020Figure 1: Prime MMF net assets dropped in March ,0.1779,0.0
+"2020, while government MMF assets grew substantially",0.1779,0.0
+Source: Form N -MFP  $ trillion,0.0,0.0
+Government,0.0,0.0
+Tax-exempt,0.0,0.0
+"PrimePublic Information – Released April 15, 2021 ",0.0,0.0
+2 Prime institutional MMFs can be further divided into publicly offered funds and f unds that are not offered to ,0.0,0.0
+the public.  A few U.S. asset managers established non -public prime institutional MMFs that are used mainly for ,0.3612,0.05555555555555555
+internal cash management needs. The se funds are sometimes referred to as “internal” or “central” MMFs. In ,0.0,0.0
+"February 2020, there were seven “internal” prime institutional MMFs. This number did not change through ",0.0772,0.0
+February 2021.     ,0.0,0.0
+Publicly offered p rime  institutional MMF s had the most outflow s in March 2020 ,0.0,0.0
+"In March  2020, investors withdrew roughly  $125 billion  from prime MMFs , both institutional and retail, or ",0.0,-0.1
+around 11% of  their net assets  (Figure 2) . Prime institutional MMFs  had the most outflows . In the last three weeks ,0.1779,0.0
+"of March  these funds lost  around $95 billion, or roughly 14% of their total net assets, including around $88 billion ",-0.1531,0.0
+in outflows in the third week of the month (Figure 3).6  ,0.0,0.0
+Prime institutional MMFs offered to the public had significantly larger outflows  than the “internal” funds  in the ,0.0,0.0
+"last three weeks of March . During this period, publicly offered funds lost nearly  $99 billion , or around 21% of their ",-0.3182,0.03333333333333333
+"total net asset s. Of this amount, close to $82 billion, or 19% of these funds’ total net assets, were the  outflow s in ",0.4939,0.0
+"the third week of the month alone. In the last three weeks of March , the “internal” funds had net inflows of close to ",-0.25,0.0
+"$4 billion, or roughly 2% of their total net assets, but there were outflows of around $7 billion (or roughly 3% of ",0.1779,-0.03333333333333333
+net assets)  in the  third week. The inflows  in the “internal” funds  in the first and the second weeks of March 2020 ,0.1779,0.05
+reflected  increased overall cash balances across the asset management complex .     ,0.5574,-0.15
+"Prime retail MMFs had outflows of around $48 billion in the last three weeks of March 2020, or roughly 11% ",0.0,-0.05
+"of their total net assets , including a $27 billion outflow in the third week of the month (Figure 2) . The outflows ",0.1779,0.0
+from both institutional and retail prime MMFs reversed in April. Net assets of prime MMFs continued to grow  until ,0.1779,0.0
+"June 2020, when they reached  $1,162 billion. Then the trend reversed and the net assets declined to $9 20 billion by ",0.2732,0.0
+February 2021. ,0.0,0.0
+6 Percentages  of flows  during a specific time period are calculated using  net subscriptions and redemptions during the ,0.0,0.0
+period divided by the  net assets  at the end of the prior period . -150-100-50050,0.1779,0.0
+Mar,0.0,0.0
+2020Apr,0.0,0.0
+2020May,0.0,0.0
+2020Jul,0.0,0.0
+2020Aug,0.0,0.0
+2020Oct,0.0,0.0
+2020Nov,0.0,0.0
+2020Dec,0.0,0.0
+2020Feb,0.0,0.0
+"2021Net assets ($ billion)Figure 2: In the third week of March 2020, prime ",0.1779,0.0
+institutional MMFs offered to the public had the largest ,0.0,0.0
+outflows among prime MMF categories ,0.0,0.0
+Note: Weekly asset changes take into account asset flows and,0.6124,0.0
+valuation changes.,0.0,0.0
+Source: Form N -MFPInstitutional (offered publicly),0.0,0.0
+Institutional (not offered publicly),0.0,0.0
+Retail,0.0,0.0
+-15%-10%-5%0%5%10%,0.0,0.0
+-120-80-4004080,0.0,0.0
+Mar,0.0,0.0
+2020Apr,0.0,0.0
+2020May,0.0,0.0
+2020Jul,0.0,0.0
+2020Aug,0.0,0.0
+2020Oct,0.0,0.0
+2020Nov,0.0,0.0
+2020Dec,0.0,0.0
+2020Feb,0.0,0.0
+"2021Net assets ($ billion)        % of net assetsFigure 3: In the third week of March 2020, prime ",0.1779,0.0
+institutional MMFs had outflows of around $88 billion ,0.0,0.0
+with 92% attributed to the publicly offered funds ,0.0,0.0
+Note: Weekly asset changes take into account asset flows and,0.6124,0.0
+valuation changes.,0.0,0.0
+Source: Form N- MFPInstitutional (offered publicly) -left axis ,0.0,0.0
+Institutional (not offered publicly) -left axis ,0.0,0.0
+"Percent of assets -right axisPublic Information – Released April 15, 2021 ",0.1779,0.2857142857142857
+3 Prime institutional MMFs m a naged by bank -affiliated ,0.0,0.0
+advise rs had the most outflows in March 2020  ,0.0,0.0
+Advisers of prime MMFs are sometimes majority owned by ,0.0,0.0
+"firms  in other types of financial services, such as banking or ",0.0,0.0
+"insurance, although most prime MMF net assets are managed ",0.1779,0.0
+"by advise rs without such affiliations. In February 2020, 78% of ",0.0,0.0
+prime MMF net assets were managed by asset managers that are ,0.4939,0.0
+"not majority owned by other types of financial services firms, ",0.0,0.0
+close to 20% of net asset s were managed by advisers owned by ,0.3612,0.0
+"firms with significant banking business, and 2% of net assets were managed by advise rs owned by ins urance companies ",0.3612,0.1875
+(Figure 4) . This breakdown remained largely unchanged  during ,0.0,0.21428571428571427
+2020.    ,0.0,0.0
+The largest outflows in mid- March were from the publicly ,0.0,0.0
+offered prime institutional MMFs with advis ers owned by ,0.0,0.0
+"banking firms (Figure 5). For example, the f unds with advis ers owned by the largest U.S. banks designated as global ",0.0,0.0
+systemically important banks (“G-SIBs ”) accounted for 56% of the outflows in the third week of March even though ,0.2023,0.2
+these funds managed only around 28 % of net assets in publicly offered prime institutional MMFs.,0.1779,0.0
+7    ,0.0,0.0
+"On the other hand, prime retail MMFs with adviser s in the asset management business accounted for 94 % of ",0.6908,0.0
+the total $48 billion outflows in the last three weeks of March 2020. This is  broadly consistent with the share of ,0.296,0.08333333333333333
+"prime retail MMF assets managed by these advisers, which is 93% of the total.     ",0.1779,0.0
+T,0.0,0.0
+he data also show that fund complexes with smaller assets under management in publicly offered prime ,0.1779,0.0
+"institutional MMFs  generally  had larger outflows from their funds , on a percent of assets basis (Figure 6). Similarly, ",0.1779,0.0
+smaller prime retail MMF complexes had the largest outflows on a percent of assets basis.      ,0.1779,0.0
+"7  See Financial Stability Board, “ 2020 list of global systemically important banks (G -SIBs) ” (November 2020).  -100-50050",0.2023,0.13333333333333333
+3/6/20 3/27/20 4/17/20 5/8/20 5/29/20 6/19/20$ billionFigure 5: Publicly offered prime institutional MMFs ,0.0,0.0
+that are affiliated with the largest U.S. banks had the ,0.0,0.0
+most outflows in March 2020 ,0.0,0.0
+Note: Weekly asset changes take into account asset flows and,0.6124,0.0
+valuation changes.,0.0,0.0
+"Source: Form N -MFP, authors' calculationsAsset managers",0.0,0.0
+Insurance,0.0,0.0
+FBOs,0.0,0.0
+U.S. banks,0.0,0.0
+U.S. G -SIBs,0.0,0.0
+-60%-40%-20%0%20%40%60%,0.0,0.0
+" -  20  40  60  80Net assets in February 2020, ",0.1779,0.0
+$ billionFigure 6: Fund families with small to mid -sizeprime ,0.0,-0.125
+institutional MMF assets had the most outflows in ,0.1779,0.0
+March 2020 although some had inflows,0.0,0.0
+Note: Monthly changes in net assets take into account asset flows ,0.4939,0.0
+andvaluation changes. Only assets in publicly offered prime ,0.1779,0.0
+institutional MMFs are depicted; assets are consolidated at the ,0.1779,0.0
+fund family level.  ,0.0,0.0
+Source: Form N -MFPFlows in March 2020 ,0.0,0.0
+as % of net assets0300600900,0.1779,0.0
+Feb-,0.0,0.0
+20Jan-,0.0,0.0
+21Feb-,0.0,0.0
+20Jan-,0.0,0.0
+21Feb-,0.0,0.0
+20Jan-,0.0,0.0
+21Feb-,0.0,0.0
+20Jan-,0.0,0.0
+21Feb-,0.0,0.0
+20Jan-,0.0,0.0
+21,0.0,0.0
+Asset,0.3612,0.0
+managerFBO Insurance U.S. bank U.S. bank,0.0,0.0
+(G-SIB)$ billionFigure 4: Prime MMF assets are managed by advisers ,0.1779,0.0
+owned by firms in other types of financial services  ,0.0,0.0
+Note: FBO -foreign banking organization .,0.0,-0.125
+"Source: Form N -MFP, authors' calculationsRetail",0.0,0.0
+"InstitutionalPublic Information – Released April 15, 2021 ",0.0,0.0
+"4 A few prime institutional MMFs, mainly within fund ",0.0,0.16666666666666666
+f,0.0,0.0
+"amilies ow ned by insurance firms, had inflows in March 2020, ",0.0,0.0
+when the industry outflows were in focus. The divergent cash ,0.0,0.0
+flows illustrate that investor s may have various  motivations ,0.0,0.0
+even during the stress market events.  ,-0.4215,0.0
+Outflows reduced  prime MMFs’ liquidity buffers  ,0.0,0.0
+Outflows from prime MMFs reduced their weekly liquid ,0.0,0.0
+"assets (WLA), which in some cases approached or fell below ",0.1779,0.0
+the 30 % threshold  set by SEC  rules.8 If an MMF’s portfolio  falls ,0.0,-0.1
+"below the 30% WLA threshold, it may not acquire any assets ",0.1779,0.0
+other than WLA until it meets th is threshold .9 A prime MMF  ,0.0,0.0
+may impose liquidity fees or temporarily suspend redemptions if the fund ’s WLA decline s below 30% of its total assets.,-0.4215,0.0
+10 To ,0.0,0.0
+"date, no MMF has used these tools. Historically, most funds ",0.0,0.0
+have m aintained WLA that are well in excess of 30% of their total assets  (Figure 7). ,0.4215,0.0
+The data show that most of the largest asset outflows in the third week of March 2020 were from the funds with ,0.3612,0.0
+"WLA close to 40%, and in some cases above 4 0%, in the prior week  (Figure 8).  However, the dail y outflows at the ",0.0,0.0
+onset of the pandemic exceeded available liquidity  for some funds and consumed additional liquidity buffers. The ,0.0,0.4
+"lowest WLA of 27% was reached by one prime institutional MMF in the third week of March,  but it did not impose ",-0.5267,0.0
+a liquidity fee nor did it suspend redemptions.11 ,-0.3182,0.0
+The m edian WLA s for both prime institutional and prime ,0.0,0.0
+retail MMFs increased notably by the end of March as the funds ,0.2732,0.5
+enhanced their liquidity  buffers  and t he official sector took steps ,0.0,0.0
+to support t he flow of credit in the economy .12 During the rest ,0.6486,0.0
+"of 2020, the median WLA of prime institutional MMFs ",0.0,0.0
+"continued to increase , reaching a high of 58% of total assets in ",0.5859,0.08
+"the last week of November 2020 . As of February  2021, the ",0.0,0.0
+median WLA remained above 50% of total assets.  ,0.1779,0.0
+Volatility of p rime MMFs’ NAV per share increased at the ,0.5106,0.0
+onset of the pandemic   ,0.0,0.0
+"By regulation, prime institutional MMFs must sell and ",0.0,0.0
+"redeem their shares at a market -based NAV.13 Nonetheless, ",0.296,0.0
+these funds strive to preserve principal and are normally ,0.0,0.15
+managed to minimize  volatility of their NAV per share. Sin ce ,-0.34,0.0
+8 Weekly liquid assets are: cash; direct obligations of the U.S. government; agency discount notes with remaining ,0.1779,0.1
+maturities of 60 days or less; certain securities that will mature (or be payable through a demand feature) within five busin ess ,0.581,0.049206349206349205
+days; or amounts unconditionally due within five business days from pending security sales. See rule 2a -7(a)(28).  ,0.34,-0.125
+9 See rule 2a -7(d)(4)(iii).  ,0.0,0.0
+10 See rule 2a -7(c)(2)(i).  ,0.0,0.0
+11 The lowest WLA figure is based on  the fund’s daily website reporting.  ,-0.3818,0.0
+"12 The list of funding, credit, liquidity, and loan facilities  established in response to the Covid -19 is available on the Federal ",0.3818,0.4
+Reserve Board’s website. ,0.0,0.0
+13 See rule 2a -7(c)(1).  20%30%40%50%60%,0.0,0.0
+Jun,0.0,0.0
+2019Aug,0.0,0.0
+2019Oct,0.0,0.0
+2019Dec,0.0,0.0
+2019Feb,0.0,0.0
+2020Apr,0.0,0.0
+2020Jun,0.0,0.0
+2020Aug,0.0,0.0
+2020Oct,0.0,0.0
+2020Dec,0.0,0.0
+2020Figure 7: Prime institutional and retail MMFs' median ,0.0,0.0
+WLAs increased by the end of March 2020  ,0.2732,0.0
+Source: Form N -MFPInstitutional,0.0,0.0
+RetailRule 2a -7 threshold%of total assets,0.1779,0.0
+0%20%40%60%80%100%,0.0,0.0
+"-20 -15 -10 -5 0 5outflows, ",0.0,0.0
+$ billionFigure 8: Many publicly offered prime institutional ,0.0,0.25
+MMFs had large outflows in the third week of March ,0.0,0.10714285714285714
+2020 even with WLA well above 30% inthe prior week,0.2732,0.0
+Note: WLA as of 3/13/20; weekly net flows for the week ending  ,0.0,0.0
+3/20/20. Only data of publicly offered prime institutional MMFs ,0.0,0.0
+are included.  ,0.0,0.0
+Source: Form N- MFPWLA as % of  ,0.0,0.0
+total assets,0.1779,0.0
+"30% WLAPublic Information – Released April 15, 2021 ",0.0,0.0
+"5 October 2016, when weekly  d ata became available,  median ",0.0,0.4
+NAV per share of the publicly offered prime institutional MMFs  ,0.296,0.0
+has stayed within a range of 5 basis points around $1.0 000 (one ,0.0,0.0
+basis point is 1/100th of 1%)  (Figure 9) .  ,0.0,0.0
+" In March 2020, e levated market volatility and constrained ",-0.1027,0.0
+liquidity  at the onset of the pandemic negatively affected ,-0.1531,-0.3
+"valuation of assets held by prime MMFs. In response, the NAV ",0.1779,0.0
+"per share of these funds declined. In the third week of March, ",0.296,0.0
+"the week of the highest NAV volatility, the minimum NAV per ",0.0,0.0
+share of publicly offered prime institutional MMFs dropped to  ,0.296,0.0
+"$0.9976, while the median NAV per share was $0.9992 (Figure 9).   ",0.296,0.0
+The MMF filings data did not show any  apparent ,0.0,0.05
+relationship between the level of the funds’  NAV per share and ,0.296,0.0
+"outflows in the third week of March 2020. For example, the ",0.0,0.0
+"prime institutional MMF w ith the lowest NAV per share had only modest outflow s of around $6 million, which ",-0.1027,0.1
+"was less than 1% of the fund’s net assets.  On the other hand, t he prime institutional MMF with the largest outflow ",0.5627,-0.08333333333333333
+as a percentage of its net assets (54%)  during that week had a $1.0001 NAV per share.  ,0.4404,0.0
+"Similarly, the prime retail MMF  with the lowest market -based NAV per share ($0.9980) in the third week of ",-0.1027,0.0
+March 2020 had outflows of only 0.1% of its net assets that week. The prime retail MMF with the largest outflow s ,0.1779,0.0
+as a percentage of its net assets (19%)  had a market -based NAV per share equal to its stable price of $1.0000.    ,0.6249,0.0
+"The dispersion of NAV per share abated after market liquidity improved in the second quarter of 2020 , ",0.6486,0.0
+"supporting the market value of assets . Moreover, as market interest rates declined, the value of assets purchased by ",0.9022,0.25
+"prime MMFs before March  2020 increased , pushing the median NAV per share higher.       $0.9950$0.9975$1.0000$1.0025$1.0050",0.5106,0.25
+Oct,0.0,0.0
+2016May,0.0,0.0
+2017Dec,0.0,0.0
+2017Jun,0.0,0.0
+2018Jan,0.0,0.0
+2019Aug,0.0,0.0
+2019Mar,0.0,0.0
+2020Oct,0.0,0.0
+2020Figure 9: NAVs of publicly offered prime institutional ,0.0,0.0
+MMFs declined in the third week of March 2020,0.0,0.0
+Note: Weekly NAV per share reported as of Fridays. Some NAV ,0.296,0.0
+per share were normalized to $1.0000 for comparability. ,0.296,0.0
+Source: Form N-MFPMaximumMedianMinimum,0.0,0.0

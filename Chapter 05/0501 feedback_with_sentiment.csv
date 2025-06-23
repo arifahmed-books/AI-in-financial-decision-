@@ -1,0 +1,11 @@
+text_column,vader_sentiment,textblob_sentiment
+I love this product! It's absolutely fantastic.,0.8439,0.45
+The service was terrible and the staff were rude.,-0.7269,-0.65
+"Had a great experience, will definitely come back!",0.7783,0.26666666666666666
+Very disappointed with the quality of the product.,-0.4767,-0.75
+"The product was okay, nothing special.",-0.092,0.4285714285714286
+Amazing service and friendly staff!,0.7906,0.48750000000000004
+"Not happy with the purchase, would not recommend.",0.7351,0.8
+The product exceeded my expectations!,0.0,0.0
+"Terrible, just terrible.",-0.7351,-1.0
+Quite satisfied with the overall experience.,0.4754,0.25

@@ -1,0 +1,11 @@
+  IF Income <= 2.45
+    IF Gender <= 0.50
+      IF Age <= 24.50
+        THEN the decision is: 1
+      IF Age >  24.50
+        THEN the decision is: 0
+    IF Gender >  0.50
+      THEN the decision is: 0
+  IF Income >  2.45
+    THEN the decision is: 1
+IF 

@@ -1,0 +1,404 @@
+  IF Income <= 164357.50
+    IF Income <= 64572.00
+      IF Income <= 60318.00
+        THEN the decision is: 1
+      IF Income >  60318.00
+        IF Age <= 23.50
+          THEN the decision is: 1
+        IF Age >  23.50
+          IF Income <= 63509.00
+            IF Age <= 25.50
+              IF Income <= 60821.00
+                THEN the decision is: 0
+              IF Income >  60821.00
+                IF Income <= 61337.00
+                  THEN the decision is: 1
+                IF Income >  61337.00
+                  IF Income <= 62129.50
+                    THEN the decision is: 0
+                  IF Income >  62129.50
+                    IF Gender <= 0.50
+                      THEN the decision is: 0
+                    IF Gender >  0.50
+                      THEN the decision is: 1
+            IF Age >  25.50
+              THEN the decision is: 0
+          IF Income >  63509.00
+            IF Income <= 64248.50
+              IF Income <= 63854.00
+                THEN the decision is: 1
+              IF Income >  63854.00
+                IF Age <= 26.00
+                  THEN the decision is: 0
+                IF Age >  26.00
+                  THEN the decision is: 1
+            IF Income >  64248.50
+              THEN the decision is: 0
+    IF Income >  64572.00
+      IF Income <= 66208.00
+        IF Income <= 65099.50
+          IF Income <= 64802.00
+            THEN the decision is: 1
+          IF Income >  64802.00
+            THEN the decision is: 0
+        IF Income >  65099.50
+          IF Age <= 27.50
+            THEN the decision is: 1
+          IF Age >  27.50
+            IF Gender <= 0.50
+              THEN the decision is: 1
+            IF Gender >  0.50
+              IF Income <= 65860.50
+                THEN the decision is: 1
+              IF Income >  65860.50
+                THEN the decision is: 0
+      IF Income >  66208.00
+        IF Income <= 70051.50
+          IF Age <= 23.50
+            IF Income <= 67402.50
+              IF Gender <= 0.50
+                THEN the decision is: 1
+              IF Gender >  0.50
+                THEN the decision is: 0
+            IF Income >  67402.50
+              IF Gender <= 0.50
+                IF Income <= 68548.00
+                  THEN the decision is: 1
+                IF Income >  68548.00
+                  THEN the decision is: 0
+              IF Gender >  0.50
+                THEN the decision is: 1
+          IF Age >  23.50
+            IF Income <= 69256.00
+              IF Income <= 68895.00
+                IF Income <= 66933.00
+                  THEN the decision is: 0
+                IF Income >  66933.00
+                  IF Income <= 67002.00
+                    THEN the decision is: 1
+                  IF Income >  67002.00
+                    IF Age <= 28.50
+                      IF Income <= 67725.00
+                        IF truncated branch of depth 4
+                      IF Income >  67725.00
+                        THEN the decision is: 0
+                    IF Age >  28.50
+                      THEN the decision is: 1
+              IF Income >  68895.00
+                IF Gender <= 0.50
+                  THEN the decision is: 1
+                IF Gender >  0.50
+                  THEN the decision is: 0
+            IF Income >  69256.00
+              THEN the decision is: 0
+        IF Income >  70051.50
+          IF Income <= 79998.00
+            IF Age <= 28.50
+              IF Income <= 78814.00
+                IF Income <= 73820.00
+                  IF Income <= 72770.50
+                    IF Income <= 70392.00
+                      IF Gender <= 0.50
+                        IF truncated branch of depth 2
+                      IF Gender >  0.50
+                        THEN the decision is: 1
+                    IF Income >  70392.00
+                      IF Income <= 72054.00
+                        IF truncated branch of depth 9
+                      IF Income >  72054.00
+                        IF truncated branch of depth 4
+                  IF Income >  72770.50
+                    IF Gender <= 0.50
+                      IF Age <= 24.50
+                        THEN the decision is: 1
+                      IF Age >  24.50
+                        THEN the decision is: 0
+                    IF Gender >  0.50
+                      THEN the decision is: 1
+                IF Income >  73820.00
+                  IF Income <= 75097.50
+                    THEN the decision is: 0
+                  IF Income >  75097.50
+                    IF Income <= 75624.50
+                      IF Age <= 24.50
+                        THEN the decision is: 1
+                      IF Age >  24.50
+                        THEN the decision is: 0
+                    IF Income >  75624.50
+                      IF Income <= 78617.50
+                        IF truncated branch of depth 11
+                      IF Income >  78617.50
+                        THEN the decision is: 0
+              IF Income >  78814.00
+                IF Income <= 79403.00
+                  IF Income <= 79333.50
+                    IF Age <= 27.50
+                      THEN the decision is: 1
+                    IF Age >  27.50
+                      IF Income <= 78931.50
+                        THEN the decision is: 1
+                      IF Income >  78931.50
+                        IF truncated branch of depth 2
+                  IF Income >  79333.50
+                    THEN the decision is: 0
+                IF Income >  79403.00
+                  THEN the decision is: 1
+            IF Age >  28.50
+              IF Income <= 76045.50
+                IF Income <= 73545.00
+                  IF Income <= 72298.00
+                    IF Income <= 71769.50
+                      IF Income <= 70329.50
+                        THEN the decision is: 0
+                      IF Income >  70329.50
+                        IF truncated branch of depth 3
+                    IF Income >  71769.50
+                      IF Age <= 38.00
+                        THEN the decision is: 0
+                      IF Age >  38.00
+                        THEN the decision is: 1
+                  IF Income >  72298.00
+                    IF Age <= 36.50
+                      IF Income <= 73157.50
+                        IF truncated branch of depth 5
+                      IF Income >  73157.50
+                        THEN the decision is: 1
+                    IF Age >  36.50
+                      IF Income <= 73149.50
+                        THEN the decision is: 1
+                      IF Income >  73149.50
+                        IF truncated branch of depth 3
+                IF Income >  73545.00
+                  IF Income <= 73720.50
+                    THEN the decision is: 0
+                  IF Income >  73720.50
+                    IF Age <= 38.50
+                      IF Age <= 35.50
+                        IF truncated branch of depth 7
+                      IF Age >  35.50
+                        THEN the decision is: 1
+                    IF Age >  38.50
+                      THEN the decision is: 0
+              IF Income >  76045.50
+                IF Income <= 78398.50
+                  IF Income <= 77582.50
+                    THEN the decision is: 1
+                  IF Income >  77582.50
+                    IF Income <= 77607.00
+                      THEN the decision is: 0
+                    IF Income >  77607.00
+                      IF Age <= 33.00
+                        THEN the decision is: 1
+                      IF Age >  33.00
+                        IF truncated branch of depth 2
+                IF Income >  78398.50
+                  IF Income <= 79535.00
+                    IF Income <= 79362.50
+                      IF Age <= 32.00
+                        IF truncated branch of depth 3
+                      IF Age >  32.00
+                        THEN the decision is: 1
+                    IF Income >  79362.50
+                      THEN the decision is: 0
+                  IF Income >  79535.00
+                    IF Gender <= 0.50
+                      IF Age <= 36.00
+                        THEN the decision is: 0
+                      IF Age >  36.00
+                        THEN the decision is: 1
+                    IF Gender >  0.50
+                      THEN the decision is: 1
+          IF Income >  79998.00
+            IF Income <= 80492.50
+              THEN the decision is: 0
+            IF Income >  80492.50
+              IF Income <= 81973.50
+                IF Age <= 30.50
+                  THEN the decision is: 0
+                IF Age >  30.50
+                  IF Age <= 37.50
+                    THEN the decision is: 1
+                  IF Age >  37.50
+                    IF Age <= 38.50
+                      IF Income <= 81091.50
+                        THEN the decision is: 0
+                      IF Income >  81091.50
+                        IF truncated branch of depth 2
+                    IF Age >  38.50
+                      THEN the decision is: 1
+              IF Income >  81973.50
+                IF Income <= 83393.50
+                  IF Gender <= 0.50
+                    THEN the decision is: 0
+                  IF Gender >  0.50
+                    IF Income <= 83223.00
+                      IF Income <= 83123.00
+                        IF truncated branch of depth 3
+                      IF Income >  83123.00
+                        THEN the decision is: 1
+                    IF Income >  83223.00
+                      THEN the decision is: 0
+                IF Income >  83393.50
+                  IF Income <= 83925.00
+                    IF Gender <= 0.50
+                      IF Age <= 31.00
+                        THEN the decision is: 1
+                      IF Age >  31.00
+                        IF truncated branch of depth 2
+                    IF Gender >  0.50
+                      THEN the decision is: 1
+                  IF Income >  83925.00
+                    IF Income <= 88916.00
+                      IF Age <= 37.50
+                        IF truncated branch of depth 11
+                      IF Age >  37.50
+                        THEN the decision is: 0
+                    IF Income >  88916.00
+                      IF Income <= 93367.00
+                        IF truncated branch of depth 10
+                      IF Income >  93367.00
+                        IF truncated branch of depth 36
+  IF Income >  164357.50
+    IF Age <= 58.50
+      IF Age <= 55.50
+        IF Income <= 196918.00
+          IF Income <= 183336.00
+            IF Income <= 175020.00
+              IF Income <= 168748.00
+                IF Gender <= 0.50
+                  THEN the decision is: 0
+                IF Gender >  0.50
+                  IF Income <= 166617.00
+                    THEN the decision is: 1
+                  IF Income >  166617.00
+                    IF Income <= 166839.50
+                      THEN the decision is: 0
+                    IF Income >  166839.50
+                      THEN the decision is: 1
+              IF Income >  168748.00
+                IF Age <= 53.50
+                  THEN the decision is: 1
+                IF Age >  53.50
+                  THEN the decision is: 0
+            IF Income >  175020.00
+              IF Age <= 53.50
+                IF Age <= 51.50
+                  IF Income <= 177800.50
+                    THEN the decision is: 0
+                  IF Income >  177800.50
+                    IF Income <= 179256.50
+                      THEN the decision is: 1
+                    IF Income >  179256.50
+                      IF Income <= 180534.00
+                        THEN the decision is: 0
+                      IF Income >  180534.00
+                        IF truncated branch of depth 2
+                IF Age >  51.50
+                  THEN the decision is: 0
+              IF Age >  53.50
+                IF Income <= 176124.50
+                  THEN the decision is: 0
+                IF Income >  176124.50
+                  THEN the decision is: 1
+          IF Income >  183336.00
+            IF Income <= 186795.00
+              THEN the decision is: 1
+            IF Income >  186795.00
+              IF Income <= 187129.50
+                THEN the decision is: 0
+              IF Income >  187129.50
+                IF Age <= 50.50
+                  IF Income <= 188822.00
+                    THEN the decision is: 1
+                  IF Income >  188822.00
+                    IF Gender <= 0.50
+                      IF Income <= 192585.50
+                        THEN the decision is: 1
+                      IF Income >  192585.50
+                        IF truncated branch of depth 2
+                    IF Gender >  0.50
+                      THEN the decision is: 0
+                IF Age >  50.50
+                  IF Income <= 188467.00
+                    IF Income <= 187857.50
+                      THEN the decision is: 1
+                    IF Income >  187857.50
+                      THEN the decision is: 0
+                  IF Income >  188467.00
+                    IF Age <= 54.50
+                      THEN the decision is: 1
+                    IF Age >  54.50
+                      IF Income <= 192152.50
+                        THEN the decision is: 1
+                      IF Income >  192152.50
+                        THEN the decision is: 0
+        IF Income >  196918.00
+          IF Age <= 53.50
+            THEN the decision is: 0
+          IF Age >  53.50
+            THEN the decision is: 1
+      IF Age >  55.50
+        IF Income <= 192438.00
+          IF Income <= 186913.00
+            IF Income <= 173319.00
+              IF Income <= 170298.00
+                IF Gender <= 0.50
+                  IF Age <= 57.00
+                    THEN the decision is: 0
+                  IF Age >  57.00
+                    IF Income <= 167693.00
+                      THEN the decision is: 1
+                    IF Income >  167693.00
+                      THEN the decision is: 0
+                IF Gender >  0.50
+                  THEN the decision is: 1
+              IF Income >  170298.00
+                THEN the decision is: 0
+            IF Income >  173319.00
+              IF Income <= 175242.50
+                THEN the decision is: 1
+              IF Income >  175242.50
+                IF Age <= 57.50
+                  IF Income <= 179968.00
+                    IF Gender <= 0.50
+                      THEN the decision is: 1
+                    IF Gender >  0.50
+                      THEN the decision is: 0
+                  IF Income >  179968.00
+                    THEN the decision is: 0
+                IF Age >  57.50
+                  IF Income <= 179068.00
+                    THEN the decision is: 0
+                  IF Income >  179068.00
+                    THEN the decision is: 1
+          IF Income >  186913.00
+            IF Income <= 190125.50
+              THEN the decision is: 0
+            IF Income >  190125.50
+              IF Income <= 190753.00
+                THEN the decision is: 1
+              IF Income >  190753.00
+                THEN the decision is: 0
+        IF Income >  192438.00
+          THEN the decision is: 1
+    IF Age >  58.50
+      IF Income <= 185360.00
+        THEN the decision is: 1
+      IF Income >  185360.00
+        IF Income <= 185710.00
+          THEN the decision is: 0
+        IF Income >  185710.00
+          IF Income <= 196050.50
+            IF Income <= 190223.00
+              IF Income <= 188963.50
+                THEN the decision is: 1
+              IF Income >  188963.50
+                THEN the decision is: 0
+            IF Income >  190223.00
+              THEN the decision is: 1
+          IF Income >  196050.50
+            IF Income <= 198286.00
+              THEN the decision is: 0
+            IF Income >  198286.00
+              THEN the decision is: 1
+IF 

@@ -1,0 +1,10 @@
+Metric,Value
+Shortest Path by Cost,"['Factory', 'Warehouse2', 'Retailer2']"
+Total Cost,120
+Shortest Path by Time,"['Factory', 'Warehouse1', 'Retailer2']"
+Total Time,4
+Centrality_Factory,0.0
+Centrality_Warehouse1,0.16666666666666666
+Centrality_Warehouse2,0.0
+Centrality_Retailer1,0.0
+Centrality_Retailer2,0.0
